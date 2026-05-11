@@ -1,9 +1,9 @@
 <img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/c1b00e7c-d6db-4004-a81a-0df4f1130d79" />
 
 
-<div align="left">
+<div align="center">
       <br>
-   <div align="left">
+   <div align="center">
 <details>
 <summary></summary>
    <br>
