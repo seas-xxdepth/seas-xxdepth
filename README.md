@@ -14,6 +14,6 @@
      <tr>
        <td>
          <br>
-         <img width="440" height="340" alt="image" src="https://github.com/user-attachments/assets/e34a71d5-0bce-4201-96d9-f01388a163c1" />
+         <img width="440" height="420" alt="image" src="https://github.com/user-attachments/assets/e34a71d5-0bce-4201-96d9-f01388a163c1" />
                 finn wilikers fictkin ..  doubles iwec :P
       <a  href="https://en.pronouns.page/@sea_xxdepths">prns.pg</a>  🪸 <a href="https://rentry.co/seas_xxdepths">rentry</a> 🎣 <a href="https://alterspring.org/@seas_xxdepth">alterspring</a>
